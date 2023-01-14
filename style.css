@@ -83,3 +83,112 @@ body{
     font-size: 40px;
     color: orange;
 }
+/*Styles of third section*/
+.loving-features{
+    display: flex;
+    margin-left: 180px;
+    margin-top: 60px;
+}
+.third-section-description-container{
+    margin-right: 40px;
+
+}
+.third-section-title{
+    border-left: 3px solid red;
+    padding-left: 8px;
+}
+.box{
+    height: 170px;
+    background-color:rgb(255, 254, 253);
+    margin-top: 15px;
+    border-radius: 7px;
+    box-shadow: 10px 10px rgb(199, 197, 197);
+    border: 0.2px solid gainsboro;
+    
+    
+}
+.box-title{
+    margin-left: 15px;
+    font-weight: 600px;
+    font-size: 17px;
+
+}
+
+.box-description{
+    margin-left: 15px;
+}
+.button-3rd-section{
+    background-color: orange;
+    border-radius: 5px;
+    color: aliceblue;
+    font-weight: 600;
+    font-size: 12px;
+    border: none;
+    padding: 20px;
+    width: 170px;
+    margin-top: -80px;
+    margin-left: -30px;
+
+}
+.button-3rd-section h1{
+    font-weight: 600;
+    font-size: 25px;
+}
+/*Styles Of 4th Section*/
+.fourth-section{
+    margin-top: 150px;
+}
+.fourth-title{
+    margin-left: 180px;
+}
+.fourth-description{
+    margin-left: 180px;
+}
+.facts-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    text-align: center;
+}
+.fact{
+    border: 0.2px solid orangered;
+    height: 180px;
+    width: 170px;
+    border-radius: 5px;
+    padding: 10px;
+}
+/*Styles Of sponser section*/
+.sponsers{
+    margin-top: 150px;
+}
+.sponsers-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    
+}
+/*services styles*/
+.our-services{
+    background-color: aqua;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    margin-top: 50px;
+}
+
+.both-services-container{
+    display: flex;
+    justify-content: space-around;
+}
+.other-services{
+    margin-left: 60px;
+}
+/*footer styles*/
+.copyright{
+    margin-top: 80px;
+    text-align: center;
+    background-color: beige;
+    height:40px;
+    width: 1000px;
+    margin-left: 300px;
+    padding-top: 30px;
+}
