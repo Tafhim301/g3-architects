@@ -5,3 +5,81 @@ body{
     font-family: 'Open Sans', sans-serif;
 
 }
+/*header style*/
+.header{
+    background-color:beige;
+    padding: 60px;
+}
+/*nav section style*/
+.title-container{
+    display: flex;
+    justify-content: space-between;
+}
+.nav{
+    display: flex;
+    
+}
+.nav-title{
+    margin-left: 40px;
+}
+.title{
+    font-weight: 700;
+    font-size: 35px;
+}
+/*header section style*/
+.section-title{
+    text-align: center;
+    font-weight: 800;
+    font-size: 50px;
+
+}
+.section-description{
+    text-align: center;
+}
+.button-primary{
+    height: 50px;
+    background-color: orange;
+    border-radius: 5px;
+    color: aliceblue;
+    font-weight: 600;
+    font-size: 12px;
+    border: none;
+    padding: 20px;
+}
+.section-content-container button{
+    margin-left: 680px;
+    margin-bottom: 20px;
+}
+/* styles of features section*/
+.feature-section{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 150px;
+}
+.img-container{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.img-container img{
+    margin: 5px;
+}
+.feature-description{
+    margin-left: 60px;
+    margin-top: 220px;
+}
+.title-starting{
+    font-weight: 500;
+    font-size: 40px;
+    color: gray;
+
+}
+.title-midd{
+    font-weight: 900;
+    font-size: 40px;
+
+}
+.title-ending{
+    font-weight: 800;
+    font-size: 40px;
+    color: orange;
+}
