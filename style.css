@@ -54,7 +54,7 @@ body{
 .feature-section{
     display: flex;
     margin-top: 50px;
-    margin-left: 10%;
+    margin-left: 7%;
 }
 .img-container{
     display: grid;
@@ -62,7 +62,7 @@ body{
 }
 .img-container img{
     margin-right:30%;
-    margin-bottom: 10%;
+    margin-bottom: 7%;
 }
 .feature-description{
     margin-left: 60px;
@@ -87,7 +87,7 @@ body{
 /*Styles of third section*/
 .loving-features{
     display: flex;
-    margin-left: 180px;
+    margin-left: 7%;
     margin-top: 60px;
 }
 .third-section-description-container{
@@ -141,10 +141,10 @@ body{
     margin-top: 150px;
 }
 .fourth-title{
-    margin-left: 180px;
+    margin-left: 7%;
 }
 .fourth-description{
-    margin-left: 180px;
+    margin-left: 7%;
 }
 .facts-container{
     display: flex;
