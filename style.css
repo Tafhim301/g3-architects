@@ -8,10 +8,7 @@ body{
 /*header style*/
 .header{
     background-color:beige;
-    padding-left: 15%;
-    padding-right: 15%;
-    margin-left: 2%;
-    
+   
 }
 /*nav section style*/
 .title-container{
@@ -20,6 +17,13 @@ body{
 }
 .nav{
     display: flex;
+    justify-content: space-around;
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-left: 2%;
+    
+
+
     
 }
 .nav-title{
@@ -28,6 +32,10 @@ body{
 .title{
     font-weight: 700;
     font-size: 35px;
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-left: 2%;
+    
 }
 /*header section style*/
 .section-title{
@@ -50,7 +58,7 @@ body{
     padding: 20px;
 }
 .banner{
-    
+    padding: 10%;
     
 }
 .section-content-container button{
