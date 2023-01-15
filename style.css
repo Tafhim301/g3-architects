@@ -47,21 +47,22 @@ body{
     padding: 20px;
 }
 .section-content-container button{
-    margin-left: 630px;
+    margin-left: 50%;
     margin-bottom: 20px;
 }
 /* styles of features section*/
 .feature-section{
     display: flex;
     margin-top: 50px;
-    margin-left: 150px;
+    margin-left: 10%;
 }
 .img-container{
     display: grid;
     grid-template-columns: repeat(2,1fr);
 }
 .img-container img{
-    margin: 5px;
+    margin-right:30%;
+    margin-bottom: 10%;
 }
 .feature-description{
     margin-left: 60px;
@@ -98,7 +99,8 @@ body{
     padding-left: 8px;
 }
 .box{
-    height: 170px;
+    height: 40%;
+    width: 95%;
     background-color:rgb(255, 254, 253);
     margin-top: 15px;
     border-radius: 7px;
